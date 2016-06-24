@@ -1,0 +1,966 @@
+2016-06-19 11:47:14 Error: [MissingControllerException] Controller class ViewController could not be found.
+Exception Attributes: array (
+  'class' => 'ViewController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/View/home.ctp
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:02:36 Error: [MissingControllerException] Controller class EmailsController could not be found.
+Exception Attributes: array (
+  'class' => 'EmailsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/Emails
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:12:09 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:12:59 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:13:00 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:13:05 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:13:08 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:13:24 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:14:20 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:14:21 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:14:27 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:15:35 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:15:53 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:16:05 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:18:44 Error: [MissingControllerException] Controller class MsersController could not be found.
+Exception Attributes: array (
+  'class' => 'MsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/msers/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:31:22 Error: [MissingControllerException] Controller class LayoutsController could not be found.
+Exception Attributes: array (
+  'class' => 'LayoutsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/Layouts/default.ctp
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:34:53 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Users/register.ctp, line 4]
+2016-06-19 12:34:53 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 4, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 4, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 12:35:00 Error: [MissingControllerException] Controller class CakephpController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:36:42 Error: [MissingActionException] Action UsersController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 12:39:26 Error: Fatal Error (1): Call to undefined method UsersController::link() in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 7]
+2016-06-19 12:39:26 Error: [FatalErrorException] Call to undefined method UsersController::link()
+Request URL: /cakephp/users/demo
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 12:39:43 Error: Fatal Error (1): Call to undefined method UsersController::create() in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 7]
+2016-06-19 12:39:43 Error: [FatalErrorException] Call to undefined method UsersController::create()
+Request URL: /cakephp/users/demo
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 12:39:50 Error: [MissingControllerException] Controller class CakephpController could not be found.
+Exception Attributes: array (
+  'class' => 'CakephpController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/cakephp/users/demo
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:40:50 Error: [MissingControllerException] Controller class DemoController could not be found.
+Exception Attributes: array (
+  'class' => 'DemoController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/demo/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 12:40:58 Error: [MissingActionException] Action UsersController::index1() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index1',
+)
+Request URL: /cakephp/users/index1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 12:41:38 Error: [MissingActionException] Action UsersController::index1() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index1',
+)
+Request URL: /cakephp/users/index1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 12:50:18 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Users/register.ctp, line 4]
+2016-06-19 12:50:18 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 4, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 4, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 12:58:51 Error: Fatal Error (4): syntax error, unexpected '}', expecting ',' or ';' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Model/AppModel.php, line 40]
+2016-06-19 12:58:51 Error: [FatalErrorException] syntax error, unexpected '}', expecting ',' or ';'
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 40, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 40, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 12:59:04 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Model/AppModel.php, line 38]
+2016-06-19 12:59:04 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 38, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 38, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 12:59:18 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Utility/ClassRegistry.php, line 186]
+2016-06-19 12:59:18 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 186)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 186, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 186, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 12:59:52 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3653): Model->setSource('users')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3031): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php(30): Model->find('all')
+#4 [internal function]: UsersController->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-06-19 13:00:37 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3653): Model->setSource('users')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3031): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php(30): Model->find('all')
+#4 [internal function]: UsersController->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-06-19 13:00:38 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3653): Model->setSource('users')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3031): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php(30): Model->find('all')
+#4 [internal function]: UsersController->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-06-19 13:00:40 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3653): Model->setSource('users')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3031): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php(30): Model->find('all')
+#4 [internal function]: UsersController->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-06-19 13:00:44 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3653): Model->setSource('users')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3031): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php(30): Model->find('all')
+#4 [internal function]: UsersController->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-06-19 13:01:26 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3653): Model->setSource('users')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3031): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php(30): Model->find('all')
+#4 [internal function]: UsersController->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-06-19 13:02:30 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:02:30 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:03:43 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:03:43 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:03:44 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:03:44 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:05:14 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:05:14 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:05:15 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:05:15 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:05:17 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:05:17 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:05:19 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:05:19 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:05:44 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:05:44 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:05:56 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:05:56 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:06:04 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:06:04 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:06:28 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3653): Model->setSource('users')
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3031): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php(30): Model->find('all')
+#4 [internal function]: UsersController->index()
+#5 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#8 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-06-19 13:07:08 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 30]
+2016-06-19 13:07:08 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 30)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 30, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 13:09:16 Error: [MissingViewException] View file "User/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'User/index.ctp',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-06-19 13:09:45 Error: [MissingViewException] View file "User/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'User/index.ctp',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-06-19 13:10:08 Error: [MissingViewException] View file "User/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'User/index.ctp',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-06-19 13:11:50 Error: [MissingViewException] View file "User/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'User/index.ctp',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-06-19 13:12:01 Error: [MissingViewException] View file "User/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'User/index.ctp',
+)
+Request URL: /cakephp/users/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-06-19 13:12:06 Error: [MissingViewException] View file "User/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'User/index.ctp',
+)
+Request URL: /cakephp/users/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-06-19 13:23:50 Error: [MissingControllerException] Controller class BooksController could not be found.
+Exception Attributes: array (
+  'class' => 'BooksController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/books/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 13:24:24 Error: [MissingViewException] View file "Books/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Books/index.ctp',
+)
+Request URL: /cakephp/books/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-06-19 13:33:39 Error: [MissingActionException] Action UserController::demo() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'demo',
+)
+Request URL: /cakephp/users/demo
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 13:45:26 Error: [MissingActionException] Action UserController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'view',
+)
+Request URL: /cakephp/users/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 13:45:28 Error: [MissingActionException] Action UserController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'view',
+)
+Request URL: /cakephp/users/view/2
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 13:45:50 Error: [MissingActionException] Action UserController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'view',
+)
+Request URL: /cakephp/users/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 13:45:53 Error: [MissingActionException] Action UserController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'view',
+)
+Request URL: /cakephp/users/view/2
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 13:45:55 Error: [MissingActionException] Action UserController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'view',
+)
+Request URL: /cakephp/users/view/3
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 13:45:57 Error: [MissingActionException] Action UserController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'view',
+)
+Request URL: /cakephp/users/view/4
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 13:46:34 Error: [MissingActionException] Action UserController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'view',
+)
+Request URL: /cakephp/users/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 13:47:37 Error: [MissingActionException] Action UserController::demo() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'demo',
+)
+Request URL: /cakephp/users/demo
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 13:54:32 Error: [MissingActionException] Action UserController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'view',
+)
+Request URL: /cakephp/users/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 14:01:54 Error: [MissingActionException] Action UserController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'view',
+)
+Request URL: /cakephp/users/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 14:05:59 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/User/view.ctp, line 8]
+2016-06-19 14:05:59 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /cakephp/users/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 8, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 8, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:10:47 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:10:47 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:11:06 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:11:06 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:11:07 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:11:07 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:11:25 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:11:25 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:11:26 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:11:26 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:11:54 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:11:54 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:11:58 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:11:58 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:13:26 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:13:26 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:13:52 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:13:52 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:14:06 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 52]
+2016-06-19 14:14:06 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 52)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 52, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 52, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:14:12 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:14:12 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:14:27 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 51]
+2016-06-19 14:14:27 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 51, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 51, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:14:52 Error: Fatal Error (4): syntax error, unexpected ':' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 52]
+2016-06-19 14:14:52 Error: [FatalErrorException] syntax error, unexpected ':'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 52)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 52, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 52, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:14:53 Error: Fatal Error (4): syntax error, unexpected ':' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 52]
+2016-06-19 14:14:53 Error: [FatalErrorException] syntax error, unexpected ':'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 52)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 52, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 52, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:15:14 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UsersController.php, line 50]
+2016-06-19 14:15:14 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/users/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 50, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-06-19 14:39:26 Error: [MissingViewException] View file "User/edit.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'User/edit.ctp',
+)
+Request URL: /cakephp/users/edit
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-06-19 14:39:44 Error: [MissingViewException] View file "User/edit.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'User/edit.ctp',
+)
+Request URL: /cakephp/users/edit
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-06-19 14:48:17 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 14:54:43 Error: [MissingControllerException] Controller class Edi1Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Edi1Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/edi1/19
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 14:54:46 Error: [MissingControllerException] Controller class EditController could not be found.
+Exception Attributes: array (
+  'class' => 'EditController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/edit/19
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 14:54:50 Error: [MissingControllerException] Controller class Edi1Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Edi1Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/edi1/19
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-06-19 15:12:43 Error: [MissingActionException] Action UserController::delete() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'delete',
+)
+Request URL: /cakephp/users/delete/3
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-06-19 15:14:20 Error: [MissingActionException] Action UserController::delete() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'delete',
+)
+Request URL: /cakephp/users/delete/4
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/cakephp/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
